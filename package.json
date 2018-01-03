@@ -1,0 +1,32 @@
+{
+  "name": "componentbased",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oguzhancelikkaya/angularJS-Component-Based-Architecture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oguzhancelikkaya/angularJS-Component-Based-Architecture/issues"
+  },
+  "homepage": "https://github.com/oguzhancelikkaya/angularJS-Component-Based-Architecture#readme",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "connect": "^3.6.5",
+    "grunt-autowatch": "^0.1.4",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-jade": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-jade-tasks": "0.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
